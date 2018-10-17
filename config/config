@@ -1,0 +1,12 @@
+module.exports = {
+
+    port: process.env.PORT || 3000,
+
+    contentful: {
+        spaceId1: 's0kgzb9dpycc',
+        spaceId2: 'utqjwe22lcwk',
+        personalKey: 'CFPAT-46c5e0206b055423cd761211087ac05e251f6b3f8e64afcb73cf41292534dd0e',
+        host: 'api.contentful.com'
+    }
+};
+
